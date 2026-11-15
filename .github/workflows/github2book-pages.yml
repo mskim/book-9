@@ -1,0 +1,27 @@
+# Made by github2book: builds the book's website (site/) with jekyll-vitepress-theme and
+# publishes it on GitHub Pages, when the site changes or when github2book asks.
+name: Book website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - site/**
+      - .github/workflows/github2book-pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  site:
+    uses: crmne/jekyll-vitepress-theme/.github/workflows/publish-docs.yml@v1
+    with:
+      docs-directory: site
+      ruby-version: "3.4"
