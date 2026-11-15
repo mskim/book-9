@@ -1,6 +1,6 @@
 ---
-title: 2006 가을특별 새벽기도
-description: 전상철
+title: 2026 가을특별 새벽기도
+description: 전상출
 lang: ko-KR
 url: https://mskim.github.io
 theme: jekyll-vitepress-theme
@@ -18,7 +18,7 @@ defaults:
     layout: default
 jekyll_vitepress:
   branding:
-    site_title: 2006 가을특별 새벽기도
+    site_title: 2026 가을특별 새벽기도
   labels:
     outline: 이 쪽의 내용
     sidebar_menu: 목차

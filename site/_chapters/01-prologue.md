@@ -1,7 +1,7 @@
 ---
 title: 서문
 nav_order: 1
-description: 2006 가을특별 새벽기도 · 서문
+description: 2026 가을특별 새벽기도 · 서문
 render_with_liquid: false
 ---
 

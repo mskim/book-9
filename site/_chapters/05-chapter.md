@@ -1,7 +1,7 @@
 ---
 title: 전쟁의 한복판에서
 nav_order: 5
-description: 2006 가을특별 새벽기도 · 전쟁의 한복판에서
+description: 2026 가을특별 새벽기도 · 전쟁의 한복판에서
 render_with_liquid: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: home
-title: 2006 가을특별 새벽기도
+title: 2026 가을특별 새벽기도
 hero:
-  name: 2006 가을특별 새벽기도
-  tagline: 전상철
+  name: 2026 가을특별 새벽기도
+  tagline: 전상출
   actions:
   - theme: brand
     text: 읽기 시작

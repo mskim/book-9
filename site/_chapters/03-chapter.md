@@ -1,7 +1,7 @@
 ---
 title: 갈등이 생겼을 때
 nav_order: 3
-description: 2006 가을특별 새벽기도 · 갈등이 생겼을 때
+description: 2026 가을특별 새벽기도 · 갈등이 생겼을 때
 render_with_liquid: false
 ---
 

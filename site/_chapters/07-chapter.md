@@ -1,7 +1,7 @@
 ---
 title: 조급함이 몰려올 때
 nav_order: 7
-description: 2006 가을특별 새벽기도 · 조급함이 몰려올 때
+description: 2026 가을특별 새벽기도 · 조급함이 몰려올 때
 render_with_liquid: false
 ---
 
